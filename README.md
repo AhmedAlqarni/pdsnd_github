@@ -26,3 +26,4 @@ Questions set:>>
 	•	counts of each gender (only available for NYC and Chicago)
 	•	earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
+>>>>>>>>>>>> Change 1 made to the README file to be commited
