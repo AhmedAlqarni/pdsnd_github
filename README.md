@@ -27,3 +27,4 @@ Questions set:>>
 	•	earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 >>>>>>>>>>>> Change 1 made to the README file to be commited
+>>>>>>>>>>>> Change 2 made to the README file to be commited
