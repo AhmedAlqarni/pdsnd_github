@@ -1,4 +1,2 @@
 .github/**
-git add -u -except new_york_city.csv 
-git add -u -except washington.csv
-git add -u -except chicago.csv
+*.csv
