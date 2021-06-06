@@ -272,6 +272,7 @@ if __name__ == "__main__":
 # updated code 6 for Github project
 # Code refactor 1 > this is python code
 # Code refactor 2 > These are main cities: chicago, new york city, washington
+# Code refactor 3 > please contact me at alqarni2300@hotmail.com for any question
 
 
 
