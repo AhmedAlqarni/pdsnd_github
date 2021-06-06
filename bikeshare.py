@@ -271,5 +271,7 @@ if __name__ == "__main__":
 # updated code 5 for Github project
 # updated code 6 for Github project
 # Code refactor 1 > this is python code
+# Code refactor 2 > These are main cities: chicago, new york city, washington
+
 
 
