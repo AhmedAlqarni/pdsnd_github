@@ -33,4 +33,6 @@ Change 4 made to the README file to be commited
 Change 5 made to the README file to be commited
 This README has been created by Ahmed Alqarni
 This README has been created in Saudi Arabia
+This README has been created about Python code for Udacity project
+
 
